@@ -21,7 +21,7 @@ If you have any questions about a specific solution or want to discuss coding ap
 
 ## Getting Started
 To get started with the code:
-1. Clone this repository: `git clone https://github.com/your-username/your-repo-name.git`
+1. Clone this repository: `git clone https://github.com/Vinaykumarmahato/CodeGeeksHubSolutions.git`
 2. Explore the code in the [src](/src) directory.
 
 ## Contributing
